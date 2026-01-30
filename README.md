@@ -1,13 +1,45 @@
-# Eduardo Luís — Desenvolvedor Python & Automação com Agentes Inteligentes
-Olá! Eu sou o Eduardo Luís, entusiasta de programação Python, automação e inteligência artificial aplicada a problemas reais.
+# Eduardo Luís — Software Engineering, AI and Automations
 
-### Sobre Mim
-- Entusiasta de tecnologia, incluindo malwares de computador.
-- Gosto de desenvolver soluções que automatizam tarefas chatas e repetitivas.
-- Trabalho com integração de APIs, criação de agentes inteligentes e automação de workflows.
+🇧🇷 Português
 
-### Projetos Recentes
-- Projeto Öyko: Um chatbot inteligente desenvolvido em Python com Langchain, focado em responder dúvidas de qualquer tema, usando modelos de linguagem e busca contextualizada para entregar respostas precisas.
-- Projeto Agente: Um assistente pessoal que gerencia a agenda do Google Calendar via comandos naturais. Permite criar, listar, atualizar e remover eventos usando autenticação OAuth e integração com Agno para interpretação inteligente dos pedidos.
-- Detector de plágio: Um projeto desenvolvido em Python com Langchain, que verifica plágios ao usuário enviar um texto, usando o Tavily (API que realiza pesquisas na internet).
-- Dashboard Royale: Um dashboard simples feito com Streamlit, Pandas e Plotly em Python, que mostra estatísticas da minha conta no jogo Clash Royale. Feito para me familiarizar com o framework.
+Olá! Eu sou o Eduardo Luís, estudante de Engenharia de Software e entusiasta de Python, automação e inteligência artificial aplicada a problemas reais.
+
+## Sobre mim
+
+- Gosto de criar soluções que automatizam tarefas repetitivas.  
+- Trabalho com integração de APIs, agentes inteligentes e automação de workflows.  
+- Sempre aprendendo e construindo projetos práticos.
+
+## Projetos recentes
+
+- **Öyko:** chatbot em Python com LangChain para responder dúvidas usando LLMs e busca contextual.  
+- **Agente de Agenda:** assistente que gerencia Google Calendar via comandos naturais.  
+- **Detector de Plágio:** verificação de similaridade textual usando LangChain e pesquisa web.  
+- **Dashboard Royale:** dashboard em Streamlit com estatísticas do Clash Royale.
+
+## Objetivo
+
+Busco estágio em tecnologia para ganhar experiência prática e evoluir como desenvolvedor.
+
+---
+
+🇺🇸 English
+
+Hi! I'm Eduardo Luís, a Software Engineering student passionate about Python, automation and AI applied to real-world problems.
+
+## About me
+
+- I enjoy building solutions that automate repetitive tasks.  
+- I work with API integrations, intelligent agents and workflow automation.  
+- Always learning and building hands-on projects.
+
+## Recent projects
+
+- **Öyko:** Python chatbot with LangChain to answer questions using LLMs and contextual search.  
+- **Agenda Assistant:** personal assistant managing Google Calendar via natural commands.  
+- **Plagiarism Detector:** checks text similarity using LangChain and web search.  
+- **Dashboard Royale:** Streamlit dashboard showing Clash Royale statistics.
+
+## Goal
+
+Seeking a tech internship to gain hands-on experience and grow as a developer.
