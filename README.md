@@ -1,52 +1,39 @@
 # Eduardo Luís
 🇧🇷 Português
 
-Olá! Eu sou o Eduardo Luís, estudante de Engenharia de Software e entusiasta de Python.
+Olá! Eu sou Eduardo Luís, estudante de Engenharia de Software e entusiasta de Python.
 
 ## Sobre mim
 Gosto de aprender e construir projetos práticos para reforçar meus conhecimentos em programação.  
 Atualmente, estou explorando **LLMs, chatbots e aplicações em Python**.
+
+
+## Tecnologias
+<table>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40"/></td>
+    <td>Python — criar programas, automatizar tarefas e desenvolver a lógica do sistema</td>
+  </tr>
+  <tr>
+    <td><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/streamlit-icon.png" width="40"/></td>
+    <td>Streamlit — framework para criar aplicativos web de forma rápida e visual</td>
+  </tr>
+  <tr>
+    <td><img src='https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/langchain.png' width="40"/></td>
+    <td>LangChain — framework para criar apps inteligentes com modelos de linguagem</td>
+  </tr>
+</table>   
 
 ## Objetivo
 Busco oportunidades para ganhar experiência prática e evoluir como desenvolvedor, aplicando o que aprendo em projetos reais.
 
 ## Projetos
 
-### Agendador de Consultas
-Um chatbot em Python que permite marcar consultas com terapeutas.  
-- Recebe mensagens do usuário com **terapeuta, data e horário**.  
-- Utiliza um **parser LLM** para transformar texto em variáveis estruturadas.  
-- Salva os agendamentos em um **arquivo JSON**.  
-- Modularizado em arquivos separados para **chatbot, parser e persistência de dados**.
+### Agendador de Horários
+Um app web interativo que permite marcar horários com profissionais usando inteligência artificial.  
+- Recebe mensagens do usuário com **nome, profissional, data e horário**.  
+- Utiliza um **parser LLM** para extrair data e horário do texto do usuário.  
+- Verifica **disponibilidade do horário** no calendário do profissional via Google Calendar API.  
+- Cria o **evento automaticamente** se o horário estiver livre.  
+- Desenvolvido de forma modular com arquivos separados para **app (Streamlit), chatbot, parser e integração com calendário**.
 
-### Pokédex (POO)
-Um projeto em Python feito com **Programação Orientada a Objetos**.  
-- Permite armazenar e exibir informações de Pokémon.  
-- Pratica conceitos de classes, objetos, encapsulamento e métodos.
-
----
-
-🇺🇸 English
-
-Hi! I'm Eduardo Luís, a Software Engineering student passionate about Python.
-
-## About me
-I enjoy learning and building hands-on projects to strengthen my programming skills.  
-Currently, I am exploring **LLMs, chatbots, and Python applications**.
-
-## Goal
-Looking for opportunities to gain practical experience and grow as a developer by applying my knowledge in real projects.
-
-## Projects
-
-### Appointment Scheduler
-A Python chatbot that allows scheduling appointments with therapists.  
-- Receives user messages with **therapist, day, and time**.  
-- Uses an **LLM parser** to transform text into structured variables.  
-- Saves appointments in a **JSON file**.  
-- Modularized in separate files for **chatbot, parser, and data persistence**.
-
-### Pokédex (OOP)
-A Python project built with **Object-Oriented Programming**.  
-- Stores and displays Pokémon information.  
-- Practices concepts like classes, objects, encapsulation, and methods.
