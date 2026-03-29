@@ -22,6 +22,10 @@ Atualmente, estou explorando **LLMs, chatbots e aplicações em Python**.
     <td><img src='https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/langchain.png' width="40"/></td>
     <td>LangChain — framework para criar apps inteligentes com modelos de linguagem</td>
   </tr>
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="40"></td>
+    <td>MongoDB — manipulação de banco de dados NoSQL com operações CRUD</td>
+  </tr>
 </table>   
 
 ## Objetivo
